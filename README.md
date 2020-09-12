@@ -1,3 +1,0 @@
-"#SampleRepo" 
-# SampleRepo
-Engin Benli
